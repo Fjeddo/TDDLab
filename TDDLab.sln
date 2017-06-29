@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDLab", "TDDLab\TDDLab.csproj", "{D976811D-DE1D-42A8-9DD3-576FCD830DF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TDDLab.Tests", "TDDLab.Tests\TDDLab.Tests.csproj", "{13E9F47A-D249-4A3A-AB7A-DD7115D22EC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D976811D-DE1D-42A8-9DD3-576FCD830DF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D976811D-DE1D-42A8-9DD3-576FCD830DF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D976811D-DE1D-42A8-9DD3-576FCD830DF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D976811D-DE1D-42A8-9DD3-576FCD830DF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13E9F47A-D249-4A3A-AB7A-DD7115D22EC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13E9F47A-D249-4A3A-AB7A-DD7115D22EC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13E9F47A-D249-4A3A-AB7A-DD7115D22EC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13E9F47A-D249-4A3A-AB7A-DD7115D22EC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
